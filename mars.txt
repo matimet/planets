@@ -10,4 +10,4 @@ the two moons could have a problem
 
 ok, I am Alpha and I am changing this file for Beta
 
-I am Beta and making a change for Alpha
+I am Beta and making a change for Alpha.  This is another change for Alpha.
